@@ -1,11 +1,11 @@
 # Automated Estimation Regularization Parameter for Diffuse Optical Tomography Using Minimal Residual
 
 
-All Programs are based on Open-Source NIRFAST ([Link](http://www.dartmouth.edu/~nir/nirfast/)) and are written as MATLAB functions.
+**All Programs are based on Open-Source NIRFAST ([Link](http://www.dartmouth.edu/~nir/nirfast/)) and are written as MATLAB functions.**
 
-Minimal Residual Method BasedSelection of Regularization Parameter (includes reconstruction part as well)
+   **#** Minimal Residual Method BasedSelection of Regularization Parameter (includes reconstruction part as well)
 
-Generalized Cross-Validation BasedSelection of Regularization Parameter (includes reconstruction part as well**)
+   **#** Generalized Cross-Validation BasedSelection of Regularization Parameter (includes reconstruction part as well**)
 
 These computational algorithms are used for performing the work presented in the following manuscript:
 
